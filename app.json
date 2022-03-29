@@ -8,7 +8,7 @@
     "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
     "stack": "container",
     "env": {
-        "LIZA_SESSION": {
+        "LIZA_SESSION": {LizaMwol:::eyJjbGllbnRJRCI6IkRqQXpwUS80N0N2L3BGNVB5TTRsUVE9PSIsInNlcnZlclRva2VuIjoiMUBlWndqOFdFNnJoV2VMdmxkcFRDekVQNlJsTWdjTkhzc0hiUTY0bnd5YmgrZDhXZi9DR0U5dm5pQ05KVTBHcE1vMWo1b2lVMzRkR0d6TUE9PSIsImNsaWVudFRva2VuIjoiWk9CVzExc29HSHJOdGp4THMyR0s1TThacVVBZW1zTmFCbXk3bzU5ckZJZz0iLCJlbmNLZXkiOiJ2Y3FYNnR6WmxjVEtmOXd3N0pEQ0VSQTZ6UE5LRFg1bHRkd1FqTUpuR2lZPSIsIm1hY0tleSI6Im8yamRJWjg1NXlZQlFTWG1wK0dnekNVeHpxZ0NiQU5iMkZ0V2xJYUhxTFk9In0=
             "description": "Type here yours Asena Session.",
             "required": true
         },
